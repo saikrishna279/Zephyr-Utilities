@@ -9,12 +9,15 @@
 -Quick Pulldown
 -Battery icons
 -Clock & Date customisation
+-Network Traffic indicator
+-status bar brightness control
 
 [B][U]NAVIGATION/RECENTS[/U][/B]
 -DT2S on navbar
 -recents panel search bar toggle
 -Clear all recents fab (top right/left/center,bottom right/left/center)
 -Hardware buttons action( for HWnavkeys  devices only)
+-Longpress recents button to switch between apps
 
 [B][U]LOCKSCREEN[/U][/B]
 -Middle Lockscreen shortcuts(Custom apps)
@@ -42,13 +45,14 @@ What else?
 -FORCE MOVE apps to SDCARD
 -Download Speeds for your downloads
 -Ability to pause/resume downloads
+- Custom Ambient Display  settings
 [/CODE][/CENTER]
 
 [CENTER][B][I][U][SIZE="6"][COLOR="green"][FONT="Impact"]Downloads[/FONT][/COLOR][/SIZE][/U][/I][/B][/CENTER]
 [CENTER][URL="https://www.androidfilehost.com/?w=files&flid=54229"]Zephyr-OS condor downloads[/URL][/CENTER]
 
 [B]Changelogs[/B]
-[URL="https://github.com/Zephyr-OS/Changelogs"]Keep on eye on this!![/URL]
+[URL="https://github.com/Zephyr-OS/Changelogs"]Keep an eye on this!![/URL]
 
 [IMG="Gplus"]https://image.freepik.com/free-icon/google-plus-logo-button_318-85017.jpg[/IMG]
 [B][FONT="Arial Black"][COLOR="red"][URL="https://plus.google.com/u/0/communities/101103673497024297251"]Get to know about the latest updates here!!![/URL][/COLOR][/FONT][/B]
@@ -57,24 +61,24 @@ What else?
 - Download the rom and [URL="http://opengapps.org/"][B]gapps[/B][/URL]
 -Boot into recovery mode [TWRP]
 - Wipe System/Data/Dalvik Cache/Cache
-- Select both the [B]ROM[/B] and [B]Gapps[/B] zip file
+- Select both the [B]ROM[/B] and [B]Gapps[B] zip file
 - Flash it!!! Reboot it!!! Enjoy it!!! :D[/QUOTE]
 NOTE:- CLEAN FLASH IS RECOMMENDED
 
 [B][U][COLOR="red"]BUG REPORTS[/COLOR][/U][/B]
 -Any bugs?? let me know :)
--Report bugs with [B]LOGCATS[/B] only, else it will be considered invalid
+-Report bugs with [B]LOGCATS[/B] or [B]screenshots[/B] only, else it will be considered invalid.
 -DO NOT REPORT BUGS ON A DIRTY FLASH!!!
 
 [B][I][SIZE="3"][FONT="Comic Sans MS"][CENTER]Credits[/CENTER][/FONT][/SIZE][/I][/B]
-[CENTER][CODE][CENTER]PrinceTrishi(StarkDroid)[/CENTER]
+[CODE][CENTER]PrinceTrishi(StarkDroid)[/CENTER]
 [CENTER]Sri Harsha[/CENTER]
 [CENTER]Akhil Narang[/CENTER]
-[CENTER]Adarsh-MR (designor)[/CENTER]
+[CENTER]Adarsh-MR (designer)[/CENTER]
 [CENTER]AOSP-RRO(base rom)[/CENTER]
 [CENTER]BrokenRom[/CENTER]
 [CENTER]SAOSP-M[/CENTER]
 [CENTER]BenzoRom[/CENTER]
 [CENTER]AOSIP[/CENTER]
 [CENTER]SlimRoms[/CENTER]
-[CENTER]CyanogenMod[/CENTER][/CODE][CENTER]
+[CENTER]CyanogenMod[/CENTER][/CODE]
