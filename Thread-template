@@ -1,13 +1,13 @@
 [CENTER][IMG="Zephyr-OS"]http://i.imgur.com/ZwbKUDn.png?1[/IMG][/CENTER]
-[CENTER][I][SIZE="4"][COLOR="red"]An AOSP-RRO based rom compiled with SaberModTC[/COLOR][/SIZE][/I][/CENTER]
+[CENTER][I][SIZE="4"][COLOR="red"]An AOSP-OMS based rom compiled with UBERTC[/COLOR][/SIZE][/I][/CENTER]
 
 [B][I][U][CENTER][COLOR="blue"]FEATURES:-[/COLOR][/CENTER][/U][/I][/B]
 [CENTER][CODE]
 [B][U]STATUSBAR[/U][/B]
--Carrier Label
+-Carrier Label customisations
 -DT2S on statusbar/lockscreen
 -Quick Pulldown
--Battery icons
+-AOSPA battery styles
 -Clock & Date customisation
 -Network Traffic indicator
 -status bar brightness control
@@ -18,6 +18,8 @@
 -Clear all recents fab (top right/left/center,bottom right/left/center)
 -Hardware buttons action( for HWnavkeys  devices only)
 -Longpress recents button to switch between apps
+- DUI [Smartbar/Fling/Pulse]
+- Pulse advanced customization
 
 [B][U]LOCKSCREEN[/U][/B]
 -Middle Lockscreen shortcuts(Custom apps)
@@ -36,56 +38,65 @@
 -Four tiles per row toggle
 -toggle status bar icons
 -Time contextual Headers
--Default Zephyr Header
 - Disable Quick Settings in secured lockscreen
 
-What else?
+[B][U]MISCELLANEOUS[/U][/B]
 -viper4Android
 -GESTURES (Hand Wave/Pocket mode)
 -Heads-up toggle
 -Dashboard switches
--LAYERS for theming
+-SUBSTRATUM for theming
 -Per app expanded desktop control
 -Multi window mode
+- Paranoid Android's Floating Window
+- Per app floating window control
 -light and dark theme toggle
 -FORCE MOVE apps to SDCARD
 -Download Speeds for your downloads
 -Ability to pause/resume downloads
 -Custom Ambient Display settings
 -AppOps/Privacy Guard
+-Reset Battery Stats option
 [/CODE][/CENTER]
 
 [CENTER][B][I][U][SIZE="6"][COLOR="green"][FONT="Impact"]Downloads[/FONT][/COLOR][/SIZE][/U][/I][/B][/CENTER]
 [CENTER][URL="https://www.androidfilehost.com/?w=files&flid=54229"]Zephyr-OS condor downloads[/URL][/CENTER]
 
-[B]Changelogs[/B]
-[URL="https://plus.google.com/u/0/communities/101103673497024297251/stream/c8c682ee-585b-4e10-87d2-c511406f27ef"]Keep an eye on this!![/URL]
+[CENTER][B]Changelogs[/B][/CENTER]
+[CENTER][URL="https://plus.google.com/u/0/communities/101103673497024297251/stream/c8c682ee-585b-4e10-87d2-c511406f27ef"]Keep an eye on this!![/URL][/CENTER]
 
-[IMG="Gplus"]https://image.freepik.com/free-icon/google-plus-logo-button_318-85017.jpg[/IMG]
-[B][FONT="Arial Black"][COLOR="red"][URL="https://plus.google.com/u/0/communities/101103673497024297251"]Get to know about the latest updates here!!![/URL][/COLOR][/FONT][/B]
+[CENTER][IMG="Gplus"]https://image.freepik.com/free-icon/google-plus-logo-button_318-85017.jpg[/IMG][/CENTER]
+[CENTER][B][FONT="Arial Black"][COLOR="red"][URL="https://plus.google.com/u/0/communities/101103673497024297251"]Get to know about the latest updates here!!![/URL][/COLOR][/FONT][/B][/CENTER]
 
-[QUOTE][B][COLOR="red"][SIZE="3"]How to flash?[/SIZE][/COLOR][/B]
-- Download the rom and [URL="http://opengapps.org/"][B]gapps[/B][/URL]
+[CENTER][B][COLOR="red"][SIZE="3"]How to flash?[/SIZE][/COLOR][/B][/CENTER]
+[CENTER][CODE]- Download the rom and [URL="http://opengapps.org/"][B]gapps[/B][/URL]
 -Boot into recovery mode [TWRP]
 - Wipe System/Data/Dalvik Cache/Cache
 - Select both the [B]ROM[/B] and [B]Gapps[B] zip file
-- Flash it!!! Reboot it!!! Enjoy it!!! :D[/QUOTE]
-NOTE:- CLEAN FLASH IS RECOMMENDED
+- Flash it!!! Reboot it!!! Enjoy it!!! :D[/CODE][/CENTER]
+[CENTER]NOTE:- CLEAN FLASH IS RECOMMENDED[/CENTER]
 
-[B][U][COLOR="red"]BUG REPORTS[/COLOR][/U][/B]
+[CENTER][B][U][COLOR="red"]BUG REPORTS[/COLOR][/U][/B]
 -Any bugs?? let me know :)
 -Report bugs with [B]LOGCATS[/B] or [B]screenshots[/B] only, else it will be considered invalid.
--DO NOT REPORT BUGS ON A DIRTY FLASH!!!
+-DO NOT REPORT BUGS ON A DIRTY FLASH!!![/CENTER]
+
+For some Audio Lovers here is an awesome audio Mod that you can flash [includes dolby atmos]
+[URL="http://forum.xda-developers.com/android/software/r-s-e-sound-systems-auditory-research-t3379709"]ARISE SOUND MOD[/URL]
 
 [B][I][SIZE="3"][FONT="Comic Sans MS"][CENTER]Credits[/CENTER][/FONT][/SIZE][/I][/B]
-[CODE][CENTER]PrinceTrishi(StarkDroid)[/CENTER]
-[CENTER]Sri Harsha[/CENTER]
-[CENTER]Akhil Narang[/CENTER]
-[CENTER]Adarsh-MR (designer)[/CENTER]
-[CENTER]AOSP-RRO(base rom)[/CENTER]
-[CENTER]BrokenRom[/CENTER]
-[CENTER]SAOSP-M[/CENTER]
-[CENTER]BenzoRom[/CENTER]
-[CENTER]AOSIP[/CENTER]
-[CENTER]SlimRoms[/CENTER]
-[CENTER]CyanogenMod[/CENTER][/CODE]
+[CENTER][QUOTE]PrinceTrishi(StarkDroid)
+@Sri Harsha
+@Akhil Narang
+@Adarsh-MR  (designer)
+@m i n a r
+AOSP-RRO(base rom)
+BrokenRom
+Dirty Unicorns
+SAOSP-M
+BenzoRom
+AOSIP
+SlimRoms
+CyanogenMod
+TeamSubstratum
+[/QUOTE][/CENTER]
