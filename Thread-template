@@ -1,7 +1,10 @@
-[CENTER][IMG="Zephyr-OS"]http://i.imgur.com/ZwbKUDn.png?1[/IMG][/CENTER]
-[CENTER][I][SIZE="4"][COLOR="red"]An AOSP-OMS based rom compiled with UBERTC[/COLOR][/SIZE][/I][/CENTER]
+[CENTER][IMG="Zephyr-OS"]https://raw.githubusercontent.com/saikrishna279/Zephyr-Utilities/master/zos_logo.png[/IMG][/CENTER]
 
-[B][I][U][CENTER][COLOR="blue"]FEATURES:-[/COLOR][/CENTER][/U][/I][/B]
+[B][SIZE="6"][COLOR="teal"][FONT="Trebuchet MS"]ROM Info:[/FONT][/COLOR][/SIZE][/B]
+
+Zephyr-OS is all about new features and looks! This beauty's inner beast gives you high performance at both smoothness and battery backup! Our team is constantly trying to improve this ROM at every aspect! You can except more from this ROM in the future updates! 
+
+[B][SIZE="6"][COLOR="maroon"][FONT="Trebuchet MS"]Features:[/FONT][/COLOR][/SIZE][/B]
 [CENTER][CODE]
 [B][U]STATUSBAR[/U][/B]
 -Carrier Label customisations
@@ -59,16 +62,37 @@
 -Reset Battery Stats option
 [/CODE][/CENTER]
 
-[CENTER][B][I][U][SIZE="6"][COLOR="green"][FONT="Impact"]Downloads[/FONT][/COLOR][/SIZE][/U][/I][/B][/CENTER]
-[CENTER][URL="https://www.androidfilehost.com/?w=files&flid=54229"]Zephyr-OS condor downloads[/URL][/CENTER]
 
-[CENTER][B]Changelogs[/B][/CENTER]
-[CENTER][URL="https://plus.google.com/u/0/communities/101103673497024297251/stream/c8c682ee-585b-4e10-87d2-c511406f27ef"]Keep an eye on this!![/URL][/CENTER]
+[B][SIZE="6"][COLOR="blue"]Changelog:[/COLOR][/SIZE][/B]
+[CENTER][CODE]4.1 changelog
+- Updated to android-6.0.1_r52
+(Latest security patch)
+- Whatsapp crash fixed
+- Removed layers and added Substratum for theming
+- included masquerade
+- Updated Pulse to newest changes
+- Sliders for Pulse customizations
+- Removed the big "Z" from no recents and added Android N style
+- Added a performance hook on dashboard for kernel auditor settings
+- GPS locking fixed
+- Huge updates on ART & Bionic for optimizations and performance
+- GCC updates
+- Added Navigation bar tile to toggle smartbar/fling
+- ability to filter apps for substratum theming
+- Sanity level for both pulse styles
+- Re-added HW rebinding
+- HW key disabler(requires testing)
+- battery improvements
+- Updated SuperSU to 2.76
+- Added SystemMode superSU[/CODE][/CENTER]
 
-[CENTER][IMG="Gplus"]https://image.freepik.com/free-icon/google-plus-logo-button_318-85017.jpg[/IMG][/CENTER]
-[CENTER][B][FONT="Arial Black"][COLOR="red"][URL="https://plus.google.com/u/0/communities/101103673497024297251"]Get to know about the latest updates here!!![/URL][/COLOR][/FONT][/B][/CENTER]
+[CENTER][IMG="g+"]https://raw.githubusercontent.com/saikrishna279/Zephyr-Utilities/master/google-plus.png[/IMG]
+[/CENTER]
+[CENTER][URL="https://plus.google.com/communities/101103673497024297251"][SIZE="4"][COLOR="cyan"]Zephyr-OS Google+ community![/COLOR][/SIZE][/URL][/CENTER]
 
-[CENTER][B][COLOR="red"][SIZE="3"]How to flash?[/SIZE][/COLOR][/B][/CENTER]
+
+
+[CENTER][B][COLOR="red"][SIZE="3"]How to flash? (¯\_(ツ)_/¯) [/SIZE][/COLOR][/B][/CENTER]
 [CENTER][CODE]- Download the rom and [URL="http://opengapps.org/"][B]gapps[/B][/URL]
 -Boot into recovery mode [TWRP]
 - Wipe System/Data/Dalvik Cache/Cache
@@ -76,16 +100,17 @@
 - Flash it!!! Reboot it!!! Enjoy it!!! :D[/CODE][/CENTER]
 [CENTER]NOTE:- CLEAN FLASH IS RECOMMENDED[/CENTER]
 
-[CENTER][B][U][COLOR="red"]BUG REPORTS[/COLOR][/U][/B]
--Any bugs?? let me know :)
--Report bugs with [B]LOGCATS[/B] or [B]screenshots[/B] only, else it will be considered invalid.
+[CENTER][IMG="bugs"]https://raw.githubusercontent.com/saikrishna279/Zephyr-Utilities/master/bug_report.gif[/IMG][/CENTER]
+[CENTER]-Any bugs?? let me know :)
+-Report bugs with[COLOR="red"] [B]LOGCATS[/B] or [B]screenshots[/B][/COLOR] only, else it will be considered invalid.
 -DO NOT REPORT BUGS ON A DIRTY FLASH!!![/CENTER]
 
-For some Audio Lovers here is an awesome audio Mod that you can flash [includes dolby atmos]
-[URL="http://forum.xda-developers.com/android/software/r-s-e-sound-systems-auditory-research-t3379709"]ARISE SOUND MOD[/URL]
+[B][SIZE="6"]For Music Lovers![/SIZE][/B]
+[CENTER][IMG="equalizer"]https://raw.githubusercontent.com/saikrishna279/Zephyr-Utilities/master/equalizer.jpg[/IMG][/CENTER]
+[CENTER][SIZE="6"][URL="http://forum.xda-developers.com/android/software/r-s-e-sound-systems-auditory-research-t3379709"][COLOR="orange"]ARISE SOUND MOD[/COLOR][/URL][/SIZE][/CENTER]
 
-[B][I][SIZE="3"][FONT="Comic Sans MS"][CENTER]Credits[/CENTER][/FONT][/SIZE][/I][/B]
-[CENTER][QUOTE]PrinceTrishi(StarkDroid)
+[B][I][SIZE="5"][CENTER][FONT="Trebuchet MS"]Credits[/FONT][/CENTER][/SIZE][/I][/B]
+[CENTER][CODE]PrinceTrishi(StarkDroid)
 @Sri Harsha
 @Akhil Narang
 @Adarsh-MR  (designer)
@@ -98,5 +123,5 @@ BenzoRom
 AOSIP
 SlimRoms
 CyanogenMod
-TeamSubstratum
-[/QUOTE][/CENTER]
+TeamSubstratum[/CODE][/CENTER]
+
