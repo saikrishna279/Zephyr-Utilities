@@ -88,40 +88,52 @@ Zephyr-OS is all about new features and looks! This beauty's inner beast gives y
 
 [CENTER][IMG="g+"]https://raw.githubusercontent.com/saikrishna279/Zephyr-Utilities/master/google-plus.png[/IMG]
 [/CENTER]
-[CENTER][URL="https://plus.google.com/communities/101103673497024297251"][SIZE="4"][COLOR="cyan"]Zephyr-OS Google+ community![/COLOR][/SIZE][/URL][/CENTER]
+
+[CENTER][URL="https://plus.google.com/communities/101103673497024297251"][SIZE="6"][COLOR="purple"]Zephyr-OS Google+ community![/COLOR][/SIZE][/URL][/CENTER]
 
 
+[CENTER][IMG="downloads"]https://raw.githubusercontent.com/saikrishna279/Zephyr-Utilities/master/downloads.jpg[/IMG][/CENTER]
 
-[CENTER][B][COLOR="red"][SIZE="3"]How to flash? (¯\_(ツ)_/¯) [/SIZE][/COLOR][/B][/CENTER]
+[URL="https://www.androidfilehost.com/?fid=24591000424951513"][CENTER][SIZE="4"][COLOR="violet"][B]ZEPHYR-OS-6.0.1-20160801-ghost.zip[/B][/COLOR][/SIZE][/CENTER][/URL]
+
+[CENTER][B][COLOR="red"][SIZE="3"]How to flash? (¯_(ツ)_/¯) [/SIZE][/COLOR][/B][/CENTER]
 [CENTER][CODE]- Download the rom and [URL="http://opengapps.org/"][B]gapps[/B][/URL]
--Boot into recovery mode [TWRP]
+- Boot into recovery mode [TWRP]
 - Wipe System/Data/Dalvik Cache/Cache
 - Select both the [B]ROM[/B] and [B]Gapps[B] zip file
 - Flash it!!! Reboot it!!! Enjoy it!!! :D[/CODE][/CENTER]
 [CENTER]NOTE:- CLEAN FLASH IS RECOMMENDED[/CENTER]
 
 [CENTER][IMG="bugs"]https://raw.githubusercontent.com/saikrishna279/Zephyr-Utilities/master/bug_report.gif[/IMG][/CENTER]
-[CENTER]-Any bugs?? let me know :)
+[CENTER][CODE]-Any bugs?? let me know :)
 -Report bugs with[COLOR="red"] [B]LOGCATS[/B] or [B]screenshots[/B][/COLOR] only, else it will be considered invalid.
--DO NOT REPORT BUGS ON A DIRTY FLASH!!![/CENTER]
+-DO NOT REPORT BUGS ON A DIRTY FLASH!!![/CODE][/CENTER]
 
-[B][SIZE="6"]For Music Lovers![/SIZE][/B]
+[CENTER][B][SIZE="6"][COLOR="red"]About Logcats![/COLOR][/SIZE][/B][/CENTER]
+
+[CENTER][HIDE][CENTER][IMG="logcat"]https://raw.githubusercontent.com/saikrishna279/Zephyr-Utilities/master/logcatgtfo.png[/IMG][/CENTER][/HIDE][/CENTER]
+[CENTER]
+[B][SIZE="6"]For Music Lovers![/SIZE][/B][/CENTER]
+
 [CENTER][IMG="equalizer"]https://raw.githubusercontent.com/saikrishna279/Zephyr-Utilities/master/equalizer.jpg[/IMG][/CENTER]
 [CENTER][SIZE="6"][URL="http://forum.xda-developers.com/android/software/r-s-e-sound-systems-auditory-research-t3379709"][COLOR="orange"]ARISE SOUND MOD[/COLOR][/URL][/SIZE][/CENTER]
 
-[B][I][SIZE="5"][CENTER][FONT="Trebuchet MS"]Credits[/FONT][/CENTER][/SIZE][/I][/B]
-[CENTER][CODE]PrinceTrishi(StarkDroid)
-@Sri Harsha
-@Akhil Narang
-@Adarsh-MR  (designer)
-@m i n a r
-AOSP-RRO(base rom)
-BrokenRom
-Dirty Unicorns
-SAOSP-M
-BenzoRom
-AOSIP
-SlimRoms
-CyanogenMod
-TeamSubstratum[/CODE][/CENTER]
+[SIZE="5"][CENTER][FONT="Trebuchet MS"]Credits[/FONT][/CENTER][/SIZE][/B]
+[CENTER]
+PrinceTrishi(StarkDroid)
+- @Sri Harsha
+- @Akhil Narang
+- @Adarsh-MR  (designer)
+- @m i n a r
+- @abinsur279
+- AOSP-RRO(base rom)
+- BrokenRom
+- Dirty Unicorns
+- SAOSP-M
+- BenzoRom
+- AOSIP
+- SlimRoms
+- CyanogenMod
+- TeamSubstratum
+[/CENTER]
 
